@@ -15,6 +15,3 @@ if valor > 9:
     print('resultado = 0')
 else:
     print('resolvado é o valor da conta: ', valor)
-    
-    
-    dasdasdas
