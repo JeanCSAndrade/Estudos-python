@@ -13,8 +13,8 @@ while opcao.lower() != 's':
         os.system('cls')
         index_str = input('Digite o que deseja apagar:\n')
         try:
-            ix = int(index_str)
-            del Dados[ix]
+            index_int = int(index_str)
+            del Dados[index_int]
         except ValueError:
             print('Valor de index inválido')
         except IndexError:
