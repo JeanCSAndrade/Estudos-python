@@ -9,7 +9,6 @@ for index, i in enumerate(cpf_str[0:9]):
     valor1 = valor1 + (int(i)*multiplica)
     multiplica = multiplica-1 if index < 8 else multiplica+9
 
-print(valor1)
 valor1 = valor1 * 10  
 valor1 = valor1 % 11
 digito1 = valor1 if valor1 <= 9 else 0
@@ -19,7 +18,6 @@ for i in cpf:
     valor2 = valor2 + (int(i)*multiplica)
     multiplica -= 1
 
-print(valor2)
 valor2 = valor2 * 10  
 valor2 = valor2 % 11
 
