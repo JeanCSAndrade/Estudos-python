@@ -24,3 +24,7 @@ valor2 = valor2 % 11
 digito2 = valor2 if valor1 <= 9 else 0
 cpf = cpf + str(digito2)
 print(f'O Primeiro digito do seu CPF é {digito1}, e o segundo é {digito2} e seu cpf é {cpf}')
+
+
+
+teste git
