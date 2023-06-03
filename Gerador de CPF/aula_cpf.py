@@ -10,7 +10,7 @@ janela.geometry("600x320")
 janela.maxsize(600, 200)
 janela.minsize(600, 200)
 janela.configure(background='#1d1d1d')
-att_img = PhotoImage(file='refresh.png')
+att_img = PhotoImage(file='Gerador de CPF/refresh.png')
         
 def get_saudacao():
     nome_usuario = os.getlogin()
