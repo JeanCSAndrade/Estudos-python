@@ -1,7 +1,11 @@
 import os
-import re
+import random as r
 
-cpf_str = re.sub(r'[^0-9]','', input('Digite os 9 primeiros digitos do seu cpf: \n'))[:9]
+cpf_str = ''
+for i in range(9):
+    cpf_str += str(r.randint(0,9))
+print(cpf_str)
+
 valor1 = 0
 valor2 = 0
 multiplica = 10
@@ -21,6 +25,6 @@ for i in cpf:
 valor2 = valor2 * 10  
 valor2 = valor2 % 11
 
-digito2 = valor2 if valor1 <= 9 else 0
+digito2 = valor2 if valor2 <= 9 else 0
 cpf = cpf + str(digito2)
 print(f'O Primeiro digito do seu CPF é {digito1}, e o segundo é {digito2} e seu cpf é {cpf}')
