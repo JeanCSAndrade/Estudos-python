@@ -33,7 +33,7 @@ def cpf():
         cpf_str += str(digito1)
         digito2 = calcula_cpf(cpf_str, 11)
         cpf = cpf_str+str(digito2)
-        cpf_tela.config(text='O CPF gerado é ' + cpf)
+        cpf_tela.config(text='O CPF gerado é ' + str(cpf)[:3]+'.'+str(cpf)[3:6]+'.'+str(cpf)[6:9]+'-'+str(cpf)[9:])
 def refresh():
       cpf()
       get_saudacao()
