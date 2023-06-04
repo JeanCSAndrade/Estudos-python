@@ -4,12 +4,11 @@ import os
 import random as r
 
 janela = tk.Tk()
-janela.title('Seu relógio')
+janela.title('Gerador de CPF')
 janela.geometry("600x320")
 janela.maxsize(600, 200)
 janela.minsize(600, 200)
 janela.configure(background='#1d1d1d')
-att_img = PhotoImage(file='Gerador de CPF/refresh.png')
         
 def get_saudacao():
     nome_usuario = os.getlogin()
@@ -44,7 +43,7 @@ saudacao.pack()
 cpf_tela = Label(janela, bg='#1d1d1d', fg='#FFFFFF', font=('Montserrat', 14))
 cpf_tela.pack(pady=2)
 recarregar = Button(janela, command=refresh)
-recarregar.config(image=att_img, width=30)
+recarregar.config(text='Atualizar', bg='#FFFFFF', fg='#1d1d1d', font=('Montserrat', 16))
 recarregar.pack(pady=10)
 cpf()
 get_saudacao()
