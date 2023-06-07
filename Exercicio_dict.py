@@ -14,16 +14,24 @@ perguntas = [{
     'Resposta': '5'
 }]
 
-
+acertou = 0
 for pergunta in perguntas:
     print(pergunta['Pergunta'])
-    print('Opções:')
-    for i, opcoes in enumerate(pergunta['Opções']):
-        print(f'{i}) {opcoes}') 
-    resposta = input('Digite sua resposta: ')
+    opcoes = pergunta['Opções']
+    for i, opcao in enumerate(opcoes):
+        print(f'{i})', opcao)
+    escolha = input('Escolha a opção correta: ')
+    resposta = None
+    qtd_opc = len(opcoes)
 
-    if resposta == pergunta['Resposta']:
-        print('Resposta correta')
-    else:
-        print('Resposta errada')
-    
+    if escolha.isdigit():
+        resposta = int(escolha)
+        if resposta is not None:
+            if resposta >= 0 and resposta < qtd_opc:
+                if opcoes[resposta] == pergunta['Resposta']:
+                    print('Acertou 👍')
+                    acertou +=1
+                else:
+                    print('Errou 👎')
+
+print(f'Vc acertou {acertou} de {len(pergunta)}')

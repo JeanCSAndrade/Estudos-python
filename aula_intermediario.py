@@ -60,9 +60,16 @@
 
 #inciiando estudos de dicionarios
 
-dict1 = {'Nome': 'Jean', 'Sobrenome': 'Andrade'}
-dict1['Idade'] = 32
+# dict1 = {'Nome': 'Jean', 'Sobrenome': 'Andrade'}
+# dict1['Idade'] = 32
 
-for tupla in dict1.items():
-    for itens in tupla:
-        print(itens)
+# for tupla in dict1.items():
+#     for itens in tupla:
+#         print(itens)
+
+s1 = {1, 2, 3, 4, 5}
+
+s1.add('Jean')
+print(s1)
+s1.clear()
+print(s1)
