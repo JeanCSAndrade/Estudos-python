@@ -93,6 +93,7 @@ def jogo_da_forca():
         if '_' not in ''.join([letra if letra in letras_corretas else '_' for letra in palavra]):
             print('Parabéns! Você acertou a palavra:', palavra)
             break
+        
         print(f'Você já digitou as letras: ', end='')
         for _ in letras_digitadas:
             print(_, end='')
