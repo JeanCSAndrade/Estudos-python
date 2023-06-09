@@ -67,9 +67,19 @@
 #     for itens in tupla:
 #         print(itens)
 
-s1 = {1, 2, 3, 4, 5}
+valores = [[1,2,3,4,2,3,1,4],
+           [1,2,3,4,5,6,7,8],
+           [3,2,1,5,7,3,2,1]]
 
-s1.add('Jean')
-print(s1)
-s1.clear()
-print(s1)
+def encontra_duplicado(listas):
+    numero_chegado = set()
+    default_duplicado = -1
+    for numero in listas:
+        if numero in numero_chegado:
+            default_duplicado = numero
+            break
+        numero_chegado.add(numero)
+    return default_duplicado
+
+for lista in valores:
+    print(lista, encontra_duplicado(lista))
