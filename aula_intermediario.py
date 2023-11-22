@@ -67,6 +67,7 @@
 #     for itens in tupla:
 #         print(itens)
 
+<<<<<<< HEAD
 # s1 = {1, 2, 3, 4, 5}
 
 # s1.add('Jean')
@@ -101,3 +102,21 @@ printButton.pack()
 lbl = tk.Label(frame, text = "") 
 lbl.pack() 
 frame.mainloop() 
+=======
+valores = [[1,2,3,4,2,3,1,4],
+           [1,2,3,4,5,6,7,8],
+           [3,2,1,5,7,3,2,1]]
+
+def encontra_duplicado(listas):
+    numero_chegado = set()
+    default_duplicado = -1
+    for numero in listas:
+        if numero in numero_chegado:
+            default_duplicado = numero
+            break
+        numero_chegado.add(numero)
+    return default_duplicado
+
+for lista in valores:
+    print(lista, encontra_duplicado(lista))
+>>>>>>> 65ab701d691f35e0e0d69e8c7ef9e90696c60b8e
