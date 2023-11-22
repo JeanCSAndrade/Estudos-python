@@ -1,0 +1,887 @@
+[
+  {
+    "indexy": "1",
+    "telefone": "3883-8895",
+    "entidade": "SEDESC - BOLSA FAMÍLIA / CMDCA - JD PRIMAVERA"
+  },
+  {
+    "indexy": "2",
+    "telefone": "3888-1460",
+    "entidade": "SEDESC - CASA DE ACOLHIDA UNIDADE I (CAMPO BRASÍLIA) - PORTO NOVO"
+  },
+  {
+    "indexy": "3",
+    "telefone": "3886-3510",
+    "entidade": "SAJUR - PROCURADORIA FISCAL (PRÉDIO ANEXO) - SUMARÉ"
+  },
+  {
+    "indexy": "4",
+    "telefone": "3884-4090",
+    "entidade": "SESAU - UBS SANTINA CARVALHO DO PRADO - JETUBA"
+  },
+  {
+    "indexy": "5",
+    "telefone": "3885-2520",
+    "entidade": "SAJUR - SEDE (AV PRAIA) - JD ARUAN"
+  },
+  {
+    "indexy": "6",
+    "telefone": "3883-7850",
+    "entidade": "SEDUC - EMEI/EMEF BERNARDO FERREIRA LOUZADA - RIO DO OURO"
+  },
+  {
+    "indexy": "7",
+    "telefone": "3882-1215",
+    "entidade": "SEDESC - NÚCLEO DE ATENDIMENTO SOCIAL - CASA BRANCA"
+  },
+  {
+    "indexy": "8",
+    "telefone": "3887-6287",
+    "entidade": "SEDESC - CASA DO CAMINHO (R. ITAÚ, Nº 202) - PORTO NOVO"
+  },
+  {
+    "indexy": "9",
+    "telefone": "3889-1090",
+    "entidade": "GABINETE DO PREFEITO - DELEGACIA DE POLÍCIA CIVIL - JD PRIMAVERA"
+  },
+  {
+    "indexy": "10",
+    "telefone": "3883-2900",
+    "entidade": "SEDUC - CRIES - TINGA"
+  },
+  {
+    "indexy": "11",
+    "telefone": "3887-3014",
+    "entidade": "SEDUC - CIEFI PROFª EDNA MARIA NOGUEIRA FERRAZ - PEREQUE"
+  },
+  {
+    "indexy": "12",
+    "telefone": "3888-3086",
+    "entidade": "SEDESC - CIASC - PEREQUE"
+  },
+  {
+    "indexy": "13",
+    "telefone": "3883-8944",
+    "entidade": "SEDESC - CRAS CENTRO \"ROBERTO BARBOSA DE JESUS\" - JD JAQUEIRA"
+  },
+  {
+    "indexy": "14",
+    "telefone": "3887-7080",
+    "entidade": "SEDESC - CASA DE ACOLHIDA UNIDADE II (R. ITAÚ, Nº 328) - PORTO NOVO"
+  },
+  {
+    "indexy": "15",
+    "telefone": "3881-3939",
+    "entidade": "SECAD - DEPARTAMENTO ÉTICO DISCIPLINAR - CENTRO"
+  },
+  {
+    "indexy": "16",
+    "telefone": "3887-1350",
+    "entidade": "SESAU - UBS DR. CARLOS ADALBERTO GARCIA - MORRO DO ALGODÃO"
+  },
+  {
+    "indexy": "17",
+    "telefone": "3888-2960",
+    "entidade": "SESEP - POSTO DE BOMBEIROS MARÍTIMO - MARTIM DE SÁ"
+  },
+  {
+    "indexy": "18",
+    "telefone": "3883-8988",
+    "entidade": "SEDUC - CEI/EMEI PROFª APARECIDA M. PIRES DE MENESES - OLARIA"
+  },
+  {
+    "indexy": "19",
+    "telefone": "3882-1690",
+    "entidade": "SEDESC - CONSELHO TUTELAR CENTRO - INDAIÁ"
+  },
+  {
+    "indexy": "20",
+    "telefone": "3887-6650",
+    "entidade": "SEDESC - CONSELHO TUTELAR SUL - TRAVESSÃO"
+  },
+  {
+    "indexy": "21",
+    "telefone": "3887-5224",
+    "entidade": "GABINETE DO PREFEITO - 1º DISTRITO POLICIAL - PORTO NOVO"
+  },
+  {
+    "indexy": "22",
+    "telefone": "3881-3717",
+    "entidade": "SEDUC - CRIES - TINGA"
+  },
+  {
+    "indexy": "23",
+    "telefone": "3888-3311",
+    "entidade": "SEDUC - CEI/EMEI PROFª CÉLIA ROCHA LOBO - PEREQUE"
+  },
+  {
+    "indexy": "24",
+    "telefone": "3883-9262",
+    "entidade": "SEDESC - CRAS CENTRO \"ROBERTO BARBOSA DE JESUS\" - JD JAQUEIRA"
+  },
+  {
+    "indexy": "25",
+    "telefone": "3888-3447",
+    "entidade": "SEDESC - CENTRO COMUNITÁRIO, CULTURA E SOCIAL - MORRO DO ALGODÃO"
+  },
+  {
+    "indexy": "26",
+    "telefone": "3881-3940",
+    "entidade": "SECAD - DEPARTAMENTO ÉTICO DISCIPLINAR - CENTRO"
+  },
+  {
+    "indexy": "27",
+    "telefone": "3887-9100",
+    "entidade": "SESAU - UBS DR. CARLOS ADALBERTO GARCIA - MORRO DO ALGODÃO"
+  },
+  {
+    "indexy": "28",
+    "telefone": "3888-3223",
+    "entidade": "SEDUC - CEI/EMEI MARIA CARLITA SARAIVA GUEDES - MORRO DO ALGODÃO"
+  },
+  {
+    "indexy": "29",
+    "telefone": "3884-3900",
+    "entidade": "SEDUC - EMEF PROFª ANTONIA ANTUNES AROUCA - MASSAGUAÇU"
+  },
+  {
+    "indexy": "30",
+    "telefone": "3882-2573",
+    "entidade": "SEDESC - CONSELHO TUTELAR CENTRO - INDAIÁ"
+  },
+  {
+    "indexy": "31",
+    "telefone": "3887-7919",
+    "entidade": "SEDESC - CENTRO COMUNITÁRIO, CULTURA E SOCIAL - MORRO DO ALGODÃO"
+  },
+  {
+    "indexy": "32",
+    "telefone": "3884-2571",
+    "entidade": "GABINETE DO PREFEITO - 2º DISTRITO POLICIAL - MASSAGUAÇU"
+  },
+  {
+    "indexy": "33",
+    "telefone": "3897-3500",
+    "entidade": "SESAU - CENTRO DE REFERENCIA À SAÚDE DA MULHER (Av. Praia) - SUMARÉ"
+  },
+  {
+    "indexy": "34",
+    "telefone": "3884-2091",
+    "entidade": "SEDUC - EMEI/EMEF PEDRO JOÃO DE OLIVEIRA - TABATINGA"
+  },
+  {
+    "indexy": "35",
+    "telefone": "3883-9908",
+    "entidade": "SEDESC - CENTRO INTEGRADO DE ATENDIMENTO À MULHER (CIAM) - INDAIÁ"
+  },
+  {
+    "indexy": "36",
+    "telefone": "3885-1730",
+    "entidade": "SECAD - DEPARTAMENTO DE MEDICINA E SEGURANÇA DO TRABALHO (DMST) - CENTRO"
+  },
+  {
+    "indexy": "37",
+    "telefone": "3883-8909",
+    "entidade": "SECAD - DEPARTAMENTO ÉTICO DISCIPLINAR - CENTRO"
+  },
+  {
+    "indexy": "38",
+    "telefone": "3884-1999",
+    "entidade": "SESAU - UBS DR. JOSÉ BOURABEBY - MASSAGUAÇU"
+  },
+  {
+    "indexy": "39",
+    "telefone": "3883-5577",
+    "entidade": "SEDUC - CEI PROFª HONORINA PACHECO CORREA - RIO DO OURO"
+  },
+  {
+    "indexy": "40",
+    "telefone": "3881-2521",
+    "entidade": "SEDUC - CIEFI PROFª ADOLFINA LEONOR SOARES DOS SANTOS - SUMARÉ"
+  },
+  {
+    "indexy": "41",
+    "telefone": "3882-1909",
+    "entidade": "SEDESC - NÚCLEO DE ATENDIMENTO SOCIAL (PEDRA GRANDE) - MASSAGUAÇU"
+  },
+  {
+    "indexy": "42",
+    "telefone": "3888-1413",
+    "entidade": "SEDESC - CIASC - PEREQUE"
+  },
+  {
+    "indexy": "43",
+    "telefone": "3887-3295",
+    "entidade": "SECAD - CORREIOS (PRÉDIO SUB PREF SUL) - PORTO NOVO"
+  },
+  {
+    "indexy": "44",
+    "telefone": "3897-9770",
+    "entidade": "SESAU - TRANSPORTE DA SAÚDE - JD BRITÂNIA"
+  },
+  {
+    "indexy": "45",
+    "telefone": "3888-2237",
+    "entidade": "SEDUC - EMEI/EMEF PROFº ALAOR XAVIER JUNQUEIRA - TRAVESSÃO"
+  },
+  {
+    "indexy": "46",
+    "telefone": "3884-1867",
+    "entidade": "SESEP - REGIONAL SUL - PORTO NOVO"
+  },
+  {
+    "indexy": "47",
+    "telefone": "3887-1036",
+    "entidade": "SEDUC - CEI/EMEI INSPETORA WALDETE FERREIRA DE SOUZA - PEGORELLI"
+  },
+  {
+    "indexy": "48",
+    "telefone": "3883-8918",
+    "entidade": "SECAD - DEPARTAMENTO ÉTICO DISCIPLINAR - CENTRO"
+  },
+  {
+    "indexy": "49",
+    "telefone": "3884-8600",
+    "entidade": "SESAU - SAMU NORTE - MASSAGUAÇU"
+  },
+  {
+    "indexy": "50",
+    "telefone": "3882-5698",
+    "entidade": "SEDUC - EMEF PROFº LUIZ RIBEIRO MUNIZ - MARTIM DE SÁ"
+  },
+  {
+    "indexy": "51",
+    "telefone": "3887-6422",
+    "entidade": "SEDUC - CEI PROFª REGINA CÉLIA CHAPIRA BLAUSTEIN - TRAVESSÃO"
+  },
+  {
+    "indexy": "52",
+    "telefone": "3882-2668",
+    "entidade": "SEDESC - CRAS MASSAGUAÇU \"NADIR PEREIRA SOARES\" - MASSAGUAÇU"
+  },
+  {
+    "indexy": "53",
+    "telefone": "3888-3013",
+    "entidade": "SEDESC - CIASC - PEREQUE"
+  },
+  {
+    "indexy": "54",
+    "telefone": "3897-8100",
+    "entidade": "SECAD - SEDE - CENTRO"
+  },
+  {
+    "indexy": "55",
+    "telefone": "3885-1800",
+    "entidade": "SESAU - UBS JOSÉ MAURÍCIO BORGES - CIDE PEREQUE"
+  },
+  {
+    "indexy": "56",
+    "telefone": "3883-9788",
+    "entidade": "SEDUC - CEI/EMEI MESSIAS MENDES DE SOUZA - IPIRANGA"
+  },
+  {
+    "indexy": "57",
+    "telefone": "3884-4438",
+    "entidade": "SEDESC - CRAS MASSAGUAÇU \"NADIR PEREIRA SOARES\" - MASSAGUAÇU"
+  },
+  {
+    "indexy": "58",
+    "telefone": "3887-1047",
+    "entidade": "SEDUC - CEI/EMEI INSPETORA WALDETE FERREIRA DE SOUZA - PEGORELLI"
+  },
+  {
+    "indexy": "59",
+    "telefone": "3882-1398",
+    "entidade": "GABINETE DO PREFEITO - CARTÓRIO ELEITORAL - SUMARÉ"
+  },
+  {
+    "indexy": "60",
+    "telefone": "3883-1309",
+    "entidade": "SESAU - CEM-CEO - PROTEGE - CENTRO"
+  },
+  {
+    "indexy": "61",
+    "telefone": "3883-4533",
+    "entidade": "SEDUC - EMEI/EMEF PROFº LUCIO JACINTO DOS SANTOS - TINGA"
+  },
+  {
+    "indexy": "62",
+    "telefone": "3882-2845",
+    "entidade": "SEDUC - CEI/EMEI LEONOR MENDES DE BARROS - TRAVESSÃO"
+  },
+  {
+    "indexy": "63",
+    "telefone": "3882-3504",
+    "entidade": "SEDESC - BOLSA FAMÍLIA / CMDCA - JD PRIMAVERA"
+  },
+  {
+    "indexy": "64",
+    "telefone": "3888-3080",
+    "entidade": "SEDESC - CIASC - PEREQUE"
+  },
+  {
+    "indexy": "65",
+    "telefone": "3883-6368",
+    "entidade": "SECER - GINÁSIO - OLARIA"
+  },
+  {
+    "indexy": "66",
+    "telefone": "3886-9930",
+    "entidade": "SESAU - UBS DR. MARIO HENRIQUE TIMOSSI TASSO - CASA BRANCA"
+  },
+  {
+    "indexy": "67",
+    "telefone": "3887-3047",
+    "entidade": "SEDUC - CEI/EMEI SEVERINO VITORIANO DOS SANTOS - JD GAIVOTAS"
+  },
+  {
+    "indexy": "68",
+    "telefone": "3885-2350",
+    "entidade": "SEDESC - CRAS SUL \"MARIA LUIZA BOURABEBY\" - PORTO NOVO"
+  },
+  {
+    "indexy": "69",
+    "telefone": "3885-1699",
+    "entidade": "SEMOP - GUARDA CÍVIL MUNICIPAL (GCM) - SUMARÉ"
+  },
+  {
+    "indexy": "70",
+    "telefone": "3882-5706",
+    "entidade": "SECAD - ALMOXARIFADO / ARQ DOCUMENTAL / DMP - JD BRITÂNIA"
+  },
+  {
+    "indexy": "71",
+    "telefone": "3887-6131",
+    "entidade": "SESAU - CEM SUL (PRÉDIO DA UBS) - PORTO NOVO"
+  },
+  {
+    "indexy": "72",
+    "telefone": "3882-6090",
+    "entidade": "SEDUC - CEI PROFª TELMA DO AMARANTES VEIGA SANTOS - TINGA"
+  },
+  {
+    "indexy": "73",
+    "telefone": "3887-6108",
+    "entidade": "SEDUC - CEI/EMEI LEONOR MENDES DE BARROS - TRAVESSÃO"
+  },
+  {
+    "indexy": "74",
+    "telefone": "3882-3825",
+    "entidade": "SEDESC - BOLSA FAMÍLIA / CMDCA - JD PRIMAVERA"
+  },
+  {
+    "indexy": "75",
+    "telefone": "3886-3086",
+    "entidade": "SEDESC - CIASC - PEREQUE"
+  },
+  {
+    "indexy": "76",
+    "telefone": "3889-3064",
+    "entidade": "SESAU - UBS VEREADOR JORGE JACINTO DE OLIVEIRA - RIO DO OURO"
+  },
+  {
+    "indexy": "77",
+    "telefone": "3887-7822",
+    "entidade": "SEDUC - EMEI MARIA DE LOURDES LUCARELLI PEREZ - INDAIA"
+  },
+  {
+    "indexy": "78",
+    "telefone": "3888-4186",
+    "entidade": "SEDUC - CIEFI PROFº RICARDO LUQUES S. SERRA - PRAIA DAS PALMEIRAS"
+  },
+  {
+    "indexy": "79",
+    "telefone": "3886-2000",
+    "entidade": "SEDESC - CRAS CENTRO \"ROBERTO BARBOSA DE JESUS\" - JD JAQUEIRA"
+  },
+  {
+    "indexy": "80",
+    "telefone": "3886-3880",
+    "entidade": "SESAU - UPA SUL - PEREQUE"
+  },
+  {
+    "indexy": "81",
+    "telefone": "3887-8057",
+    "entidade": "SECAD - ALMOXARIFADO / ARQ DOCUMENTAL / DMP - JD BRITÂNIA"
+  },
+  {
+    "indexy": "82",
+    "telefone": "3888-3001",
+    "entidade": "SESAU - UBS DR. ALBERT SABIN - PORTO NOVO"
+  },
+  {
+    "indexy": "83",
+    "telefone": "3883-5046",
+    "entidade": "SEDUC - OFICINA DE ARTES - TINGA"
+  },
+  {
+    "indexy": "84",
+    "telefone": "3887-1030",
+    "entidade": "SEDUC - CEI/EMEI STELA DA SILVA - TRAVESSÃO"
+  },
+  {
+    "indexy": "85",
+    "telefone": "3882-4065",
+    "entidade": "SEDESC - CONSELHO TUTELAR CENTRO - INDAIÁ"
+  },
+  {
+    "indexy": "86",
+    "telefone": "3889-1099",
+    "entidade": "SEDESC - CONSELHO TUTELAR SUL - TRAVESSÃO"
+  },
+  {
+    "indexy": "87",
+    "telefone": "3889-3022",
+    "entidade": "SESAU - UBS VEREADOR JORGE JACINTO DE OLIVEIRA - RIO DO OURO"
+  },
+  {
+    "indexy": "88",
+    "telefone": "3882-1216",
+    "entidade": "SEDUC - BIBLIOTECA AFONSO SCHMIDT - CENTRO"
+  },
+  {
+    "indexy": "89",
+    "telefone": "3886-2030",
+    "entidade": "SEDESC - SEDE - JD ARUAN"
+  },
+  {
+    "indexy": "90",
+    "telefone": "3885-4600",
+    "entidade": "SESAU - CAPS AD - PEREQUE"
+  },
+  {
+    "indexy": "91",
+    "telefone": "3888-2509",
+    "entidade": "SECAD - ALMOXARIFADO / ARQ DOCUMENTAL / DMP - JD BRITÂNIA"
+  },
+  {
+    "indexy": "92",
+    "telefone": "3884-5700",
+    "entidade": "SESAU - UBS TABATINGA"
+  },
+  {
+    "indexy": "93",
+    "telefone": "3882-4858",
+    "entidade": "SEDUC - EMEI/EMEF JOÃO THIMOTEO DO ROSARIO - CANTA GALO"
+  },
+  {
+    "indexy": "94",
+    "telefone": "3887-8230",
+    "entidade": "SEDUC - CEI/EMEI STELA DA SILVA - TRAVESSÃO"
+  },
+  {
+    "indexy": "95",
+    "telefone": "3882-5168",
+    "entidade": "SEDESC - CREAS - JD ARUAN"
+  },
+  {
+    "indexy": "96",
+    "telefone": "3889-3524",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "97",
+    "telefone": "3882-6112",
+    "entidade": "GABINETE DO PREFEITO - SEDE / PAÇO - CENTRO"
+  },
+  {
+    "indexy": "98",
+    "telefone": "3883-3277",
+    "entidade": "SESAU - UBS TINGA"
+  },
+  {
+    "indexy": "99",
+    "telefone": "3881-1313",
+    "entidade": "SEDUC - EMEI/EMEF PROFº LUCIO JACINTO DOS SANTOS - TINGA"
+  },
+  {
+    "indexy": "100",
+    "telefone": "3887-1025",
+    "entidade": "SEDESC - CRAS BARRANCO ALTO \"JANAÍNA GUERRA BERNARDES DE ANDRADE\" - B. ALTO"
+  },
+  {
+    "indexy": "101",
+    "telefone": "3886-3700",
+    "entidade": "SECAD - DEPARTAMENTO DE RH (DRH) - CENTRO"
+  },
+  {
+    "indexy": "102",
+    "telefone": "3883-3446",
+    "entidade": "SECAD - ALMOXARIFADO / ARQ DOCUMENTAL / DMP - JD BRITÂNIA"
+  },
+  {
+    "indexy": "103",
+    "telefone": "3887-1013",
+    "entidade": "SESAU - UBS VEREADOR JAMESON DUARTE - GOLFINHOS"
+  },
+  {
+    "indexy": "104",
+    "telefone": "3882-1055",
+    "entidade": "SEMOP - DEFESA CIVIL - JD JAQUEIRA"
+  },
+  {
+    "indexy": "105",
+    "telefone": "3883-1682",
+    "entidade": "GABINETE DO PREFEITO - BANCO DO POVO (PRÉDIO SEGOV) - SUMARÉ"
+  },
+  {
+    "indexy": "106",
+    "telefone": "3883-2985",
+    "entidade": "SEDESC - VILA DIGNIDADE - JD JAQUEIRA"
+  },
+  {
+    "indexy": "107",
+    "telefone": "3889-3551",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "108",
+    "telefone": "3882-6170",
+    "entidade": "GABINETE DO PREFEITO - PAT - SUMARÉ"
+  },
+  {
+    "indexy": "109",
+    "telefone": "3882-6446",
+    "entidade": "SESAU - UBS TINGA"
+  },
+  {
+    "indexy": "110",
+    "telefone": "3882-1699",
+    "entidade": "SECER - GINÁSIO - JETUBA"
+  },
+  {
+    "indexy": "111",
+    "telefone": "3887-1029",
+    "entidade": "SEDESC - CRAS BARRANCO ALTO \"JANAÍNA GUERRA BERNARDES DE ANDRADE\" - B. ALTO"
+  },
+  {
+    "indexy": "112",
+    "telefone": "3885-1600",
+    "entidade": "SECHAB - SECRETARIA DE HABITAÇÃO - INDAIÁ"
+  },
+  {
+    "indexy": "113",
+    "telefone": "3882-6731",
+    "entidade": "SECAD - CEMITÉRIO - INDAIÁ"
+  },
+  {
+    "indexy": "114",
+    "telefone": "3887-1021",
+    "entidade": "SESAU - UBS VEREADOR JAMESON DUARTE - GOLFINHOS"
+  },
+  {
+    "indexy": "115",
+    "telefone": "3883-8913",
+    "entidade": "SEMOP - DEFESA CIVIL - JD JAQUEIRA"
+  },
+  {
+    "indexy": "116",
+    "telefone": "3882-2493",
+    "entidade": "SEDUC - EMEF PROFº ANTONIO DE FREITAS AVELAR - ESTRELA D'ALVA"
+  },
+  {
+    "indexy": "117",
+    "telefone": "3883-4854",
+    "entidade": "SEDESC - CRAS NORTE \"GERALDO LUIZ DOS SANTOS\" - OLARIA"
+  },
+  {
+    "indexy": "118",
+    "telefone": "3889-3565",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "119",
+    "telefone": "3883-9987",
+    "entidade": "GABINETE DO PREFEITO - PAT - SUMARÉ"
+  },
+  {
+    "indexy": "120",
+    "telefone": "3883-3500",
+    "entidade": "SESAU - UBS MARIA JOSÉ PASSOS RIBEIRO DOS SANTOS - JARAGUAZINHO"
+  },
+  {
+    "indexy": "121",
+    "telefone": "3883-1617",
+    "entidade": "GABINETE DO PREFEITO - OUVIDORIA - CENTRO"
+  },
+  {
+    "indexy": "122",
+    "telefone": "3881-1451",
+    "entidade": "SESAU - UAMI - SUMARÉ"
+  },
+  {
+    "indexy": "123",
+    "telefone": "3887-3836",
+    "entidade": "SEDUC - EMEF PROFª MARIA APARECIDA UJIO - COLÔNIAS"
+  },
+  {
+    "indexy": "124",
+    "telefone": "3887-1316",
+    "entidade": "SEDESC - CRAS BARRANCO ALTO \"JANAÍNA GUERRA BERNARDES DE ANDRADE\" - B. ALTO"
+  },
+  {
+    "indexy": "125",
+    "telefone": "3885-4550",
+    "entidade": "SESEP - SEDE - JD ARUAN"
+  },
+  {
+    "indexy": "126",
+    "telefone": "3883-4445",
+    "entidade": "SECAD - ALMOXARIFADO / ARQ DOCUMENTAL / DMP - JD BRITÂNIA"
+  },
+  {
+    "indexy": "127",
+    "telefone": "3887-2038",
+    "entidade": "SESAU - UBS ADEMIR REIS - PEREQUE"
+  },
+  {
+    "indexy": "128",
+    "telefone": "3883-3477",
+    "entidade": "SEDUC - CEI/EMEI PROFª SANTINA NARDI MARQUES - ESTRELA D'ALVA"
+  },
+  {
+    "indexy": "129",
+    "telefone": "3882-6284",
+    "entidade": "SEDUC - EMEF PROFº ANTONIO DE FREITAS AVELAR - ESTRELA D'ALVA"
+  },
+  {
+    "indexy": "130",
+    "telefone": "3883-6305",
+    "entidade": "SEDESC - CRAS NORTE \"GERALDO LUIZ DOS SANTOS\" - OLARIA"
+  },
+  {
+    "indexy": "131",
+    "telefone": "3889-3577",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "132",
+    "telefone": "3889-3578",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "133",
+    "telefone": "3883-2724",
+    "entidade": "GABINETE DO PREFEITO - OUVIDORIA - CENTRO"
+  },
+  {
+    "indexy": "134",
+    "telefone": "3883-1373",
+    "entidade": "SESAU - UAMI - SUMARÉ"
+  },
+  {
+    "indexy": "135",
+    "telefone": "3886-1200",
+    "entidade": "SESAU - CEM-CEO - SEDE - JD PRIMAVERA"
+  },
+  {
+    "indexy": "136",
+    "telefone": "3887-6315",
+    "entidade": "SEDUC - CEI DO POIARES"
+  },
+  {
+    "indexy": "137",
+    "telefone": "3887-1509",
+    "entidade": "SESEP - REGIONAL SUL - PORTO NOVO"
+  },
+  {
+    "indexy": "138",
+    "telefone": "3881-3715",
+    "entidade": "GABINETE DO PREFEITO - FUNDO SOCIAL DA SOLIDARIEDADE - CENTRO"
+  },
+  {
+    "indexy": "139",
+    "telefone": "3883-8113",
+    "entidade": "GABINETE DO PREFEITO - INSTITUTO MÉDICO LEGAL - IML - JD PRIMAVERA"
+  },
+  {
+    "indexy": "140",
+    "telefone": "3887-2051",
+    "entidade": "SESAU - UBS ADEMIR REIS - PEREQUE"
+  },
+  {
+    "indexy": "141",
+    "telefone": "3882-2221",
+    "entidade": "SEDUC - EMEI/EMEF BERNARDO FERREIRA LOUZADA - RIO DO OURO"
+  },
+  {
+    "indexy": "142",
+    "telefone": "3883-1278",
+    "entidade": "SEDUC - UNIVESP - ESTRELA D'ALVA"
+  },
+  {
+    "indexy": "143",
+    "telefone": "3886-6060",
+    "entidade": "SEURB - SECRETARIA DE URBANISMO - SUMARÉ"
+  },
+  {
+    "indexy": "144",
+    "telefone": "3883-6548",
+    "entidade": "SEDESC - BANCO MUNICIPAL DE ALIMENTOS / CRESANS - JD BRITÂNIA"
+  },
+  {
+    "indexy": "145",
+    "telefone": "3889-3579",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "146",
+    "telefone": "3883-5482",
+    "entidade": "GABINETE DO PREFEITO - OUVIDORIA - CENTRO"
+  },
+  {
+    "indexy": "147",
+    "telefone": "3887-6888",
+    "entidade": "SESAU - ZOONOSES - JD BRITÂNIA"
+  },
+  {
+    "indexy": "148",
+    "telefone": "3897-2100",
+    "entidade": "SESAU - UPA CENTRO - JD PRIMAVERA"
+  },
+  {
+    "indexy": "149",
+    "telefone": "3882-2610",
+    "entidade": "SEDUC - EMEI/EMEF PROFª AIDA DE ALMEIDA CASTRO GRAZIOLI - RIO DO OURO"
+  },
+  {
+    "indexy": "150",
+    "telefone": "3887-1520",
+    "entidade": "SEDESC - CONSELHO TUTELAR SUL - TRAVESSÃO"
+  },
+  {
+    "indexy": "151",
+    "telefone": "3882-6006",
+    "entidade": "GABINETE DO PREFEITO - JUNTA MILITAR - CAPUTERA (SEMOP)"
+  },
+  {
+    "indexy": "152",
+    "telefone": "3882-3242",
+    "entidade": "GABINETE DO PREFEITO - DELEGACIA DE DEFESA DA MULHER - JD PRIMAVERA"
+  },
+  {
+    "indexy": "153",
+    "telefone": "3883-2701",
+    "entidade": "SESAU - UBS NADIR CORDEIRO ROSSI -  SUMARÉ"
+  },
+  {
+    "indexy": "154",
+    "telefone": "3883-1043",
+    "entidade": "SESEP - CORPO DE BOMBEIROS - INDAIÁ"
+  },
+  {
+    "indexy": "155",
+    "telefone": "3887-3101",
+    "entidade": "SEDUC - EMEI/EMEF PROFº JOÃO BAPTISTA GARDELIN - POIARES"
+  },
+  {
+    "indexy": "156",
+    "telefone": "3883-7536",
+    "entidade": "SEDESC - CRAS NORTE \"GERALDO LUIZ DOS SANTOS\" - OLARIA"
+  },
+  {
+    "indexy": "157",
+    "telefone": "3889-3580",
+    "entidade": "SEDESC - CRAS JETUBA \"ANTONIA APARECIDA DECANINI - TONINHA\" - JETUBA"
+  },
+  {
+    "indexy": "158",
+    "telefone": "3883-7881",
+    "entidade": "GABINETE DO PREFEITO - BATALHÃO DA POLÍCIA MILITAR - SUMARÉ"
+  },
+  {
+    "indexy": "159",
+    "telefone": "3887-6085",
+    "entidade": "SESAU - ZOONOSES - JD BRITÂNIA"
+  },
+  {
+    "indexy": "160",
+    "telefone": "3886-3050",
+    "entidade": "SEPEDI - SEDE E CIAPI - JD JAQUEIRA"
+  },
+  {
+    "indexy": "161",
+    "telefone": "3887-9431",
+    "entidade": "SEDUC - CIASE TRAVESSÃO \"GOVERNADOR ADHEMAR PEREIRA DE BARROS\" - TRAVESSÃO"
+  },
+  {
+    "indexy": "162",
+    "telefone": "3887-1602",
+    "entidade": "SEDESC - CONSELHO TUTELAR SUL - TRAVESSÃO"
+  },
+  {
+    "indexy": "163",
+    "telefone": "3883-9523",
+    "entidade": "SECAD - DEPARTAMENTO DE RH (DRH) - CENTRO"
+  },
+  {
+    "indexy": "164",
+    "telefone": "3883-9106",
+    "entidade": "SESAU - UBS NADIR CORDEIRO ROSSI -  SUMARÉ"
+  },
+  {
+    "indexy": "165",
+    "telefone": "3883-1717",
+    "entidade": "SESEP - CORPO DE BOMBEIROS - INDAIÁ"
+  },
+  {
+    "indexy": "166",
+    "telefone": "3882-5441",
+    "entidade": "SEPEDI - SEDE E CIAPI - JD JAQUEIRA"
+  },
+  {
+    "indexy": "167",
+    "telefone": "3883-7885",
+    "entidade": "SEDESC - CRAS NORTE \"GERALDO LUIZ DOS SANTOS\" - OLARIA"
+  },
+  {
+    "indexy": "168",
+    "telefone": "3889-4157",
+    "entidade": "SEDESC - CRAS SUL \"MARIA LUIZA BOURABEBY\" - PORTO NOVO"
+  },
+  {
+    "indexy": "169",
+    "telefone": "3882-3759",
+    "entidade": "SECAD - CEJUSC - JD PRIMAVERA"
+  },
+  {
+    "indexy": "170",
+    "telefone": "3889-3552",
+    "entidade": "SESAU - UBS SANTINA CARVALHO DO PRADO - JETUBA"
+  },
+  {
+    "indexy": "171",
+    "telefone": "3885-2200",
+    "entidade": "SECER - SEDE - JD BRITÂNIA"
+  },
+  {
+    "indexy": "172",
+    "telefone": "3887-5007",
+    "entidade": "SEDUC - CIASE TRAVESSÃO \"GOVERNADOR ADHEMAR PEREIRA DE BARROS\" - TRAVESSÃO"
+  },
+  {
+    "indexy": "173",
+    "telefone": "3887-3551",
+    "entidade": "SEDESC - BANCO MUNICIPAL DE ALIMENTOS / CRESANS - JD BRITÂNIA"
+  },
+  {
+    "indexy": "174",
+    "telefone": "3883-9668",
+    "entidade": "SECAD - DEPARTAMENTO DE RH (DRH) - CENTRO"
+  },
+  {
+    "indexy": "175",
+    "telefone": "3883-9081",
+    "entidade": "SESAU - CAPS II E SAÚDE MENTAL - SUMARÉ"
+  },
+  {
+    "indexy": "176",
+    "telefone": "3889-3535",
+    "entidade": "SEDUC - CEI/EMEI PROFª VERA DA SILVA SANTOS - PORTAL FAZENDINHA"
+  },
+  {
+    "indexy": "177",
+    "telefone": "3883-9796",
+    "entidade": "SEDESC - CIASC - PONTE SECA"
+  }
+]
